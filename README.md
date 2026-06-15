@@ -1,2 +1,10 @@
-# security-learning
-My journey: Python, web security, AI red teaming, OSCP, cloud identity
+# welcome
+
+feel free to interact with any of the resources
+
+
+
+**open to feedback!**
+
+thanks for visiting.
+
