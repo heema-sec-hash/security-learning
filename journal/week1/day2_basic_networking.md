@@ -2,17 +2,7 @@
 
 
 
-\## Income Track
-
-\- \[F] 10 applications sent on Upwork
-
-\- \[T] Proposal template saved
-
-\- \[F] Job tracker updated
-
-
-
-\## Career Track
+\## Track
 
 \- \[T] Command Prompt basics (ipconfig, ping, netstat)
 
@@ -48,6 +38,6 @@
 
 \## Notes / Issues
 
-* Marmorizing ports at first can seem tricky
-* Wireshark is a overwhelmingly detailed for network trafficking
+* Marmorizing ports can seem tricky at first
+* Wireshark is overwhelmingly detailed for network trafficking
 
