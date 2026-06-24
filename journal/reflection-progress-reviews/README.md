@@ -10,19 +10,19 @@ Weekly/Monthly Checkpoints:
 
 Example:
 
-📅 Month 1 Review
+Month 1 Review
 
-🔥 Wins:
+Wins:
 
 \- Mastered subnetting after labbing with Cisco Packet Tracer.
 
 \- Wrote 5 Python scripts (port scanner, log parser).
 
-📉 Challenges:
+Challenges:
 
 \- Procrastinated on Buffer Overflows → Need to schedule focused time.
 
-🔧 Plan for Next Month:
+Plan for Next Month:
 
 \- Dedicate 2h/week to BOFs using TCM’s course.
 
