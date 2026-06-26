@@ -26,7 +26,3 @@ Plan for Next Month:
 
 \- Dedicate 2h/week to BOFs using TCM’s course.
 
-
-
-\---
-
