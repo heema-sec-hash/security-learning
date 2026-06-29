@@ -7,6 +7,7 @@
 * ##### Learn about my Windows security problem and solve it
 * ##### Converting .rtf/.docx files into .md files to use with git's version-controlled
 * ##### TCP, UDP, and Critical Ports deeper dive for reinforcement
+* ##### Bandit levels 1-15 mastering
 
 
 
