@@ -22,8 +22,6 @@ Answer: I accidently used file instead of grep to search for a certain word.
 
 
 
-Biggest lesson of Week 1
-
 * What surprised me most? ROT13 process.
 * What was easier than I expected? compressing and decompressing files.
 

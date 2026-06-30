@@ -4,3 +4,27 @@
 
 &#x09;how are we gonna address all this?
 
+
+
+1. What commands do I remember without looking?
+
+Answer: pwd , cat , ls -la , file , rm , cp , ssh -i , echo , tr , nc , chmod , mkdir , mv , base64 , | , gzip , bzip2 , grep
+
+
+
+2\. Which command was hardest to understand?
+
+Answer: nc
+
+
+
+3\. What do I still feel shaky on?
+
+Answer: remembering the right commands, results I get when using a command are confusing sometimes. Also, distinguishing files vs. directories while writing commands can be tricky.
+
+
+
+4\. What am I confident about?
+
+Answer: using linux generally, logging and improving my journal.
+
