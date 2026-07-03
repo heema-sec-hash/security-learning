@@ -6,5 +6,5 @@ feel free to interact with any of the resources
 
 **open to feedback!**
 
-thanks for visiting.
+thanks for stopping by.
 
