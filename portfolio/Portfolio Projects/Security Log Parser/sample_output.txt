@@ -1,0 +1,22 @@
+=== ERROR ENTRIES ===
+2025-01-15 10:30:01 ERROR Database connection timeout
+2025-01-15 10:50:05 ERROR Disk space warning on /dev/sda1
+
+=== ERROR TYPE COUNTS ===
+      1 Database
+      1 Disk space
+
+=== FAILED LOGIN ATTEMPTS ===
+2025-01-15 10:25:12 WARN Failed login attempt for admin from 203.0.113.5
+2025-01-15 10:40:33 WARN Failed login attempt for root from 192.168.1.200
+2025-01-15 11:00:12 WARN Failed login attempt for admin from 203.0.113.5
+
+=== FAILED LOGINS BY IP ===
+      2 203.0.113.5
+      1 192.168.1.200
+
+=== SUMMARY ===
+Total lines: 10
+Errors: 2
+Warnings: 3
+Info: 5

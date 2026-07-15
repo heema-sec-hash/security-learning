@@ -13,7 +13,7 @@ echo "Hostname: $(hostname)"
 echo "================================================="
 
 # Current user
-echo "Current Use: $(whoami)"
+echo "Current User: $(whoami)"
 
 echo "================================================="
 

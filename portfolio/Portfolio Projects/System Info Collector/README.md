@@ -16,11 +16,16 @@ A Bash script that collects and displays key system information for system admin
 - Bash shell
 - `lsb_release`, `free`, `df`, `ip`, `ps` (usually preinstalled)
 
+## Skills Demonstrated
+• Bash scripting
+• Linux system commands
+• Automation
+
 ## How to Run
 ```bash
 chmod +x system_info.sh
 ./system_info.sh
-./system_info.sh > report.txt (redirects output into a file instead of printing to the screen.)
+./system_info.sh > report.txt (redirects output into a file instead of printing to the screen)
 
 ## Example Output
 =================================================
@@ -67,8 +72,3 @@ kali        1127  0.1  6.9 1119348 139876 ?      Sl   07:41   0:28 xfwm4
 ===================================
         REPORT COMPLETE
 ===================================
-
-## Skills Demonstrated
-• Bash scripting
-• Linux system commands
-• Automation

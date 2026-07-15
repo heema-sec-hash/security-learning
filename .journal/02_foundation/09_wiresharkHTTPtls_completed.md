@@ -14,7 +14,7 @@
 
 
 
-\## Wireshark HTTP Analysis (from my capture)
+\## Wireshark HTTP Analysis (from my own capture)
 
 \- Request Method: GET
 
@@ -34,13 +34,13 @@
 
 \## Real-World Connections
 
-• Wireshark is used during incident response and malware investigations. 
+• Wireshark is used during incident response and malware investigations.
 
-• HTTP knowledge is essential for Burp Suite and API testing. 
+• HTTP knowledge is essential for Burp Suite and API testing.
 
-• TLS analysis helps identify certificate and encryption problems. 
+• TLS analysis helps identify certificate and encryption problems.
 
-• DNS analysis is commonly used to investigate phishing and malware. 
+• DNS analysis is commonly used to investigate phishing and malware.
 
 • Following TCP streams reconstructs attacker or user activity.
 
@@ -69,6 +69,4 @@
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
