@@ -21,12 +21,6 @@ A Bash script that collects and displays key system information for system admin
 • Linux system commands
 • Automation
 
-## How to Run
-```bash
-chmod +x system_info.sh
-./system_info.sh
-./system_info.sh > report.txt (redirects output into a file instead of printing to the screen)
-
 ## Example Output
 =================================================
         SYSTEM INFORMATION REPORT
@@ -72,3 +66,9 @@ kali        1127  0.1  6.9 1119348 139876 ?      Sl   07:41   0:28 xfwm4
 ===================================
         REPORT COMPLETE
 ===================================
+
+## How to Run
+```bash
+chmod +x system_info.sh
+./system_info.sh
+./system_info.sh > report.txt (redirects output into a file instead of printing to the screen)

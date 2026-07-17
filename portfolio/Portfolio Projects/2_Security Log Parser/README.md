@@ -22,7 +22,6 @@ A Bash script that extracts, counts, and analyzes log entries. Designed for inci
 • Automation
 • Pattern recognition
 
-
 ## Project Structure 
 log_parser/ 
 ├── log_parser.sh 

@@ -15,12 +15,6 @@ A Bash script that monitors the health of websites/services by checking HTTP sta
 
 - `curl` installed (`sudo apt install curl`)
 
-## How to Run
-
-```bash
-chmod +x health_checker.sh
-./health_checker.sh urls.txt
-
 ## Skills Demonstrated
 
 - Bash functions
@@ -63,3 +57,9 @@ Logging to: health_check_20260717_204509.log
 [2026-07-17 20:45:11] https://reddit.com - Status: DOWN (HTTP 301)
 
 Health check complete. Results saved to health_check_20260717_204509.log.
+
+## How to Run
+
+```bash
+chmod +x health_checker.sh
+./health_checker.sh urls.txt
