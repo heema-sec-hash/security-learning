@@ -1,0 +1,5 @@
+
+[2026-07-17 20:45:10] https://google.com - status: DOWN (HTTP 301)
+[2026-07-17 20:45:10] https://github.com - status: UP (200 OK)
+[2026-07-17 20:45:10] https://nonexistent-domain-xyz123.com - status: DOWN (Connection Failed / Timeout)
+[2026-07-17 20:45:11] https://reddit.com - status: DOWN (HTTP 301)
