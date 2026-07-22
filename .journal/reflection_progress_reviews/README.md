@@ -1,4 +1,4 @@
-Weekly/Monthly Checkpoints:
+# Weekly/Monthly Checkpoints:
 
 • What worked? (e.g., "Hands-on labs solidified subnetting").
 
@@ -6,7 +6,5 @@ Weekly/Monthly Checkpoints:
 
 • Adjustments needed (e.g., "Spend less time on theory, more on HTB").
 
-
-
-Plus: A record of the dark thoughts and mental exhaustion I had to dismantle with AI just to keep going. "reflective\_ai.docx"
+> Plus: A record of the dark thoughts and mental exhaustion I had to dismantle with AI just to keep going. "reflective\_ai.docx"
 

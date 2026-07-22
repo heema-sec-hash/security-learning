@@ -1,22 +1,18 @@
 # HTTP Health Checker
 
 ## Purpose
-
 A Bash script that monitors the health of websites/services by checking HTTP status codes. Essential for service reliability monitoring.
 
 ## Features
-
 - Reads list of URLs from a file
 - Checks HTTP status (200, 404, 500, timeout)
 - Logs results with timestamps
 - Color-coded output (optional upgrade)
 
 ## Requirements
-
 - `curl` installed (`sudo apt install curl`)
 
 ## Skills Demonstrated
-
 - Bash functions
 - HTTP/curl interaction
 - Service monitoring
@@ -25,7 +21,6 @@ A Bash script that monitors the health of websites/services by checking HTTP sta
 - text
 
 ##  Common Mistakes
-
 | Mistake | Fix |
 |---------|-----|
 | Forgetting `--connect-timeout` | Without it, curl hangs forever on dead URLs. Always set timeout. |
@@ -34,7 +29,6 @@ A Bash script that monitors the health of websites/services by checking HTTP sta
 | Not skipping empty lines | `while read` with empty lines breaks. Add `[ -z "$url" ] && continue`. |
 
 ## Real-World Connection
-
 | Topic | Why It Matters |
 |-------|----------------|
 | **Functions** | OSCP scripts have 50+ lines. Functions keep them readable and reusable. |
@@ -46,7 +40,6 @@ A Bash script that monitors the health of websites/services by checking HTTP sta
 ** This is essentially a simplified uptime monitor—the same idea used by monitoring platforms like UptimeRobot, Pingdom, and enterprise monitoring systems.
 
 ## Example Output
-
 Starting health check at Fri Jul 17 08:45:09 PM +03 2026
 
 Logging to: health_check_20260717_204509.log
@@ -59,7 +52,7 @@ Logging to: health_check_20260717_204509.log
 Health check complete. Results saved to health_check_20260717_204509.log.
 
 ## How to Run
-
 ```bash
 chmod +x health_checker.sh
 ./health_checker.sh urls.txt
+```

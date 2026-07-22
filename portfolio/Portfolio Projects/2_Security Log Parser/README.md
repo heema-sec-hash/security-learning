@@ -34,3 +34,4 @@ log_parser/
 chmod +x log_parser.sh
 ./log_parser.sh sample.log
 ./log_parser.sh sample.log > sample_output.txt (to save a sample on your system)
+```

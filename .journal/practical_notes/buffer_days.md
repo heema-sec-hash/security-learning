@@ -1,30 +1,43 @@
-* errands
+# errands
 
+# more in depth (on the go) + highlighted monthly plan
 
+# backlog + redo hardest topics/labs
 
-* more in depth (on the go)
+# study cases
 
+# Learning Resources - scan resources for reinforcements
 
+# Overall Tips - just read
 
-* backlog + redo hardest topics/labs
+# update resume + on LinkedIn
 
+# job applications
 
+---
 
-* Learning Resources - scan resources for reinforcements
+#! Template:
 
+# buffer
 
+## errands
+-
 
-* Overall Tips - just read
+## more in depth (on the go)
+-
 
+# backlog + redo hardest topics/labs
+-
 
+# study cases
+-
 
-* update resume
+## overall Tips
+-
 
+# resume updated
 
+- [yes/no]
 
-* job applications
-
-
-
-* study cases
-
+## Notes / Blockers
+ _________________________________

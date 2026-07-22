@@ -1,22 +1,18 @@
-# welcome
+# *Welcome!*
 
+> Started learning cybersecurity from **zero** — no Linux, no Bash, no Python. This is my public journey.
 
+> Everything is documented: terminal logs, daily notes, reflections, and projects. every script, every lab, every mistake goes here.
 
-Web Security → AI Red Teaming → OSCP → Cloud Identity → PQC
+```mermaid
+graph TD
+	A[Web Security] --> B[OSCP] --> C[AI Red Teaming] --> D[Cloud Identity] --> E{PQC}
+```
 
+> *Daily logs. Public projects. No shortcuts.*
 
+>> Feel free to interact with any of the resources.
 
-Daily logs. Public projects. No shortcuts.
+> **Open to feedback!**
 
-
-
-feel free to interact with any of the resources.
-
-
-
-**open to feedback!**
-
-
-
-thanks for stopping by.
-
+> *Thanks for stopping by.*

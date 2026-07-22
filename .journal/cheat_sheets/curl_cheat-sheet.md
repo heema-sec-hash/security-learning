@@ -6,4 +6,3 @@
 * Show headers only		curl -I http://httpbin.org/get
 * Save output to file		curl http://httpbin.org/get -o response.json
 * Show response headers	curl -v http://httpbin.org/get
-

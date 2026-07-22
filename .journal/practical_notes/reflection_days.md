@@ -1,26 +1,53 @@
-\# quick revision of current week studies:
+# quick revision of current week studies:
 
+- highlighted walkthrough
 
+- study notes
 
-1. highlighted walkthrough
-2. study notes
-3. command logs
-4. quizzes
-5. cheat sheets
-6. memorizing
-7. write a reflection \& a progress review
+- command logs
 
+- practical notes
 
+- quizzes
 
-\# push all to github
+- cheat sheets
 
+- memorizing
 
+- write a reflection & a progress review
 
-\## later
+# update/organize notes
 
+# push all to github + update profile README
 
+# update all platforms with projects & all new shiny stuff
 
-* lab write-ups
-* engagements
-* labCTFs
+## later
 
+- lab write-ups
+
+- engagements
+
+- labCTFs
+
+---
+
+#! Template:
+
+# rest/reflection
+
+## revised all
+- [yes/no]
+
+## updated/organized notes
+- [yes/no]
+
+## pushed all to github
+- [yes/no]
+
+## platforms updated
+- [yes/no]
+
+## Notes / Blockers
+
+_____________________________
